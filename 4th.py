@@ -2,7 +2,7 @@
 # -*- coding: utf8 -*-
 
 '''
-A project made by the students Παναγιώτης Πράττης Π15120 and Νίκος Κοντόπουλος Π15056
+A project made by the student Νίκος Κοντόπουλος Π15056
 Exercise 4
 Write a program which takes for input a title of a movie that the user choses and by using the link
 http://www.omdbapi.com/ it returns the IMDB score and the awards that it may has.
